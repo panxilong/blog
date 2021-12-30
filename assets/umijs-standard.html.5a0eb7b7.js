@@ -1,0 +1,1 @@
+const a={key:"v-83b66aa0",path:"/standard/umijs-standard.html",title:"Umijs \u76EE\u5F55",lang:"en-US",frontmatter:{sidebar_position:7},excerpt:"",headers:[],git:{},filePathRelative:"standard/umijs-standard.md"};export{a as data};
